@@ -3,7 +3,7 @@ Topic Embedded Products BSP for the Miami and Florida boards on top of a Linux d
 # Initial setup
 
 ```
-git clone http://github.com/topic-embedded-products/topic-platform.git my-platform
+git clone git@github.com:saurjk/topic-platform.git
 cd my-platform
 git submodule update --init
 
